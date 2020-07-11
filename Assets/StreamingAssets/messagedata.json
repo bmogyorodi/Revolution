@@ -1,0 +1,82 @@
+{
+  "tutorialRounds": 
+  [
+    {
+      "messages": [
+        { "lines": [ "Hello, and welcome to the Revolution Tutorial!", "Please, press the next message button to continue!" ] },
+        { "lines": [ "Here you are going to learn the basics of this excting board game!", "Let's start first by looking through the User-Interface!", "If you are reading these messages that means that you found the message board.", "Congrats!" ] },
+        { "lines": [ "Above this, you can find the Player panel!", "It has information on each player in the game.", "It shows the amount of support the players have, and also their resources.", "Support is the most important part of the game.", "The player who has the most support by the end wins.", "Simple as that!" ] },
+        { "lines": [ "The resource pool has three different resources:", "Gold (G), Blackmail (B), and Force (F).", "Resources are used to convince characters to join you.", "Winning them to your side will grant you more resources and support.", " Let's see how it's done!" ] },
+        { "lines": [ "Take a look at the characters' panel to the left!", "Here you can find all the characters you can bribe blackmail or force to join your cause.", "You can read their name, and the assets they give you in case you win them over.", "Let's try to get the one who can support you the most!" ] },
+        { "lines": [ "The printer should do the trick!", " But first let's decided whether we should bribe, blackmail or force him." ] },
+        { "lines": [ "It's important for you to know that force is the most effective resource in the game.", "If you use violence it doesn't matter how much gold others offer him, he joins you.", "The same goes for blackmail letters.", "You're only in trouble if your rivals use their fists as well."] }
+      ]
+    },
+    {
+      "messages": [
+        { "lines":[ "So let's click the force icon to select that resource!"] }
+      ]
+    },
+    { "messages": [ { "lines": [ "Now that you selected a resource you will use it on the character you click on next.", "Click on the printer's button to force him!" ] } ] },
+    {
+      "messages": [
+        { "lines": [ "Good job! However the printer in itself is not enough.", "The printer might give you support, but not much else.", "You must use the rest of your resources to compete for more characters!", "However this time let's look for someone who can give you a resource.", "Look, the mercenary can provide you with support and one unit of force for your next turn!" ] },
+        { "lines": [ "Sounds awesome! Let's get him too!", "You might notice however that the mercenary has a few X-s written on it's bid table...", "That means you can't use certain resources to get his services.", "In case of the mercenary, you can only bribe him using gold.", "So click the gold button to use gold instead of force!" ] }
+      ]
+    },
+    { "messages": [ { "lines": [ "Good! Now the gold resource is highlighted.", "The next time you click a character, you will offer a gold as bribe.", "Let's make an offer to the mercenary!", "Bribe him with all your gold coins!" ] } ] },
+    { "messages": [ { "lines": [ "Good job!", "But let's not waste all our assets on just one character!", "You'll need to gain more support to stay ahead of the competition.", "Take back your last gold using the reverse bid button!" ] } ] },
+    {
+      "messages": [
+        { "lines": [ "Great! Now we can use it on a different character.", "If you give all your resources to one character you most likely to win the bid for him.", "However it's better to branch out and try to compete for more than one at the same time.", "It might be risky, but it can work out for you quite well" ] },
+        { "lines": [ "Let's try to go for the Rogue this time!", "He is another character you can only bribe with gold. So it's less likely someone outbids you." ] }
+      ]
+    },
+    { "messages": [ { "lines": [ "Good! Now let's use the last resource in our resource pool: Blackmail!", "Blackmail is more effective than gold, but just like with force not every character accepts it.", "Select the Blackmail icon to prepare for blackmailing someone!" ] } ] },
+    {
+      "messages": [
+        { "lines": [ "Great! Now let's pick another character.", "Let's get the General!", "Not only does it give you support and a force, but it also gives you influence inside the Fortress.", "Let me explain what that means!" ] },
+        { "lines": [ "Below the character panel you can see the buildings panel.", "Each building has a number of blocks representing spaces of influence.", "The more blocks you have in a building, the more influence you have in that building.", "The player who has the most influence in a building by the end of the game gains points from it." ] },
+        { "lines": [ "So how do you get influence in a building?", "Each building has a character owning it, that can grant you entrance.", "Win the character over, and you get one block for yourself in the building (given there is still free space in that building)!", "Like how the general will give you a block in the fortress if blackmailing him works.", "Let's see!" ] }
+      ]
+    },
+    { "messages": [ { "lines": [ "Great! You completed your first turn.", "There is nothing else to do now, so let's confirm your bids for the characters and move to the next turn", "Click on the confirm bids button to end your turn!" ] } ] },
+    {
+      "messages": [
+        { "lines": [ "Let's see the result of your bidding!", "Unfortunately not everything went according to our plan.", "Your rival won over the rogue by bribing him with one more gold than you.", "As for the printer, both of you used force to convince him. When the highest bids are tied for a character, they remain neutral." ] },
+        { "lines": [ "Let's see the character's effect on your support and resource pool!", "By winning the General and a mercenary you gained 4 support points and two force to be used in the next turn", "Your opponent gained support from the Aristocrat and the Merchant. Also as you can see he gained much more resources." ] },
+        { "lines": [ "Don't panic though! At the beginning of every turn you will receive patronage, which means you get gold until you have 5 items in your resource pool" ] },
+        { "lines": [ "Finally let's look at the building panel!", "You started gaining influence in the fortress, which looks promising. It can give you 50 points if you are the dominant player there by the end.", "However you will have to win over the General several more times later to be able to accomplish that." ] },
+        { "lines": [ "In the meantime keep an eye on other buildings as well. Your rival will try to gain points from buildings just like you.", "To counter them you'll need to win the characters of those buildings, or remove their influence using an apothecary or spy.", "We'll see how this is done in the next turn.", "To start the next turn press the next day button in the buttom right corner of the screen!" ] }
+      ]
+    },
+    {
+      "messages": [
+        { "lines": [ "Before we make our next move let's look at the resources of the opponent to see what they can do.", "As you can see our rival has plenty of gold and a few blackmail letters. Impressive resource pool but it has it's limits.", "Firstly, only we have force with which we can out bid our rival for any character that can be forced." ] },
+        { "lines": [ "Secondly, it's worth to mention that even though our opponent has 10 resources, he can only split it between 6 characters max.", "Keep that in mind, cause that rule applies to everyone! You can only place bid on 6 characters per turn." ] },
+        { "lines": [ "Since your opponent has plenty of gold and blackmail, let's focus on those characters that can be forced.", "I suggest you attack the magistrate! His building can grant you 45 points at the end, and you can catch up by getting blackmail resources" ] },
+        { "lines": [ "The second target should be the merchant as it gives you plenty of gold for the next turn, not to mention you can start competing for the market!", "So select your force resource and use it on these two targets!" ] }
+      ]
+    },
+    {
+      "messages": [
+        { "lines": [ "Good job! Now let's see where we should put our gold!", "It's likely that our rival will go for something like the General or Captain as those characters can provide force, but also can be blackmailed.", "The rouge and mercenary are also quite likely targets. Our opponent might try to bribe them since he has more gold than you." ] },
+        { "lines": [ "So let's take a gamble! Let's bid on those characters one gold each that can only be forced but not blackmailed.", "Just to be ensured you've already forced the magistrate, so that leaves the Innkeeper and the Spy!", "Put one gold on both the Innkeeper and the Spy!" ] }
+      ]
+    },
+    {
+      "messages": [
+        { "lines": [ "Nice one! Now let's see who should get our next gold", "Since your opponent has to split 10 resources between 6 spaces it's unlikely we can outbid him.", "Our best bet is to split our gold more, and hope we pick something he hasn't picked." ] },
+        { "lines": [ "Maybe try the priest this time! It's something none of you bid for last turn, and he doesn't seem to have more incetives to choose it this time either.", "Use your last gold to bribe the priest and the confirm your bids for this round! Fingers crossed!" ] }
+      ]
+    },
+    { "messages": [ { "lines": [ "Good! Now confirm." ] } ] },
+    {
+      "messages": [
+        { "lines": [ "Great! That's pretty much the best outcome we could have hoped for.", "But before we looked further into the results of the round let's make use of our Spy.", "The spy helps you inflatrate any building. You can select any occupied influence block and replace it's color with your own.", "This character can help you a lot in claiming ownerships of buildings especially by the end of the game." ] },
+        { "lines": [ "At this point, I'd recommend you to strengthen your position in the fortress as you have already occupied a space there.", "First you need to click the block you want attack. Click the fortress block with your opponent's color on it!" ] }
+      ]
+    },
+    { "messages": [ { "lines": [ "Great! Now confirm stealing that block by clicking the colored block on the spy panel!" ] } ] },
+    { "messages": [ { "lines": [ "Great job! As you can see we stole the block from your opponent.", "Now we are the sole owner of the fortress. At least for now.", "You see, the game lasts until each and every block has been occupied by a player." ] } ] }
+  ]}

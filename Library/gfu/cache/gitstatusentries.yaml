@@ -1,0 +1,2497 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-07-11T14:47:54.545+02:00
+  initializedAtString: 2020-07-11T13:32:27.783+02:00
+  entries:
+  - path: .collabignore
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-01.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-01.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-01.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-02.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-02.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-02.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-03.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-03.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-03.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-04.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-04.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-04.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-05.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-05.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-05.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-06.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-06.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-06.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-07.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-07.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-07.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-08.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-08.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-08.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-09.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-09.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-09.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-10.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-10.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-10.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-11.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-11.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-11.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-12.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-12.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-12.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-13.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-13.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-13.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-14.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-14.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-14.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-15.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-15.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-15.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-16.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-16.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-16.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-17.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-17.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-17.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-18.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-18.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-18.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-19.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-19.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-19.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-20.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-20.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-20.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-21.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-21.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-21.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-22.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-22.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-22.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-23.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-23.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-23.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-24.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-24.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-24.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-25.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-25.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-25.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-26.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-26.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-26.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-27.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-27.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-27.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-28.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-28.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-28.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-29.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-29.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-29.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-30.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-30.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-30.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-31.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-31.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-31.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-34.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-34.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-34.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-36.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-36.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-36.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-40.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-40.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-40.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-44.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-44.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-44.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-45.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-45.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-45.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-46.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-46.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-46.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-47.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-47.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-47.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-49.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-49.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-49.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\DM-CGS-50.wav
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\DM-CGS-50.wav
+    projectPath: Assets\CasualGameSounds\DM-CGS-50.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CasualGameSounds\license.pdf
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\CasualGameSounds\license.pdf
+    projectPath: Assets\CasualGameSounds\license.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Fergieplayingpoker.jpg
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Images\Fergieplayingpoker.jpg
+    projectPath: Assets\Images\Fergieplayingpoker.jpg
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Images\fortress.jpg
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Images\fortress.jpg
+    projectPath: Assets\Images\fortress.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\market.jpg
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Images\market.jpg
+    projectPath: Assets\Images\market.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\tavern.jpg
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Images\tavern.jpg
+    projectPath: Assets\Images\tavern.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\town hall.jpg
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Images\town
+      hall.jpg
+    projectPath: Assets\Images\town hall.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\RevolutionBoard.unity
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scenes\RevolutionBoard.unity
+    projectPath: Assets\Scenes\RevolutionBoard.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Building.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\Building.cs
+    projectPath: Assets\Scripts\Building.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\DataController.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\DataController.cs
+    projectPath: Assets\Scripts\DataController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\GameController.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\GameController.cs
+    projectPath: Assets\Scripts\GameController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\MessageEditor.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\MessageEditor.cs
+    projectPath: Assets\Scripts\MessageEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MusicManager.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\MusicManager.cs
+    projectPath: Assets\Scripts\MusicManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TutorialData.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\TutorialData.cs
+    projectPath: Assets\Scripts\TutorialData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TutorialMessage.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\TutorialMessage.cs
+    projectPath: Assets\Scripts\TutorialMessage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TutorialRound.cs
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\Scripts\TutorialRound.cs
+    projectPath: Assets\Scripts\TutorialRound.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\StreamingAssets\messagedata.json
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Assets\StreamingAssets\messagedata.json
+    projectPath: Assets\StreamingAssets\messagedata.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Collab\CollabSnapshot_3653cdb2-d7d1-4085-a5dd-8b0f15c3816d.txt
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\Collab\CollabSnapshot_3653cdb2-d7d1-4085-a5dd-8b0f15c3816d.txt
+    projectPath: Library\Collab\CollabSnapshot_3653cdb2-d7d1-4085-a5dd-8b0f15c3816d.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\09\0994c12e202f342459a4212e7287f7e8
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\09\0994c12e202f342459a4212e7287f7e8
+    projectPath: Library\metadata\09\0994c12e202f342459a4212e7287f7e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\09\0994c12e202f342459a4212e7287f7e8.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\09\0994c12e202f342459a4212e7287f7e8.info
+    projectPath: Library\metadata\09\0994c12e202f342459a4212e7287f7e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\09\0994c12e202f342459a4212e7287f7e8.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\09\0994c12e202f342459a4212e7287f7e8.resource
+    projectPath: Library\metadata\09\0994c12e202f342459a4212e7287f7e8.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0b\0b5ef5559b2b71541a29e313df6e5893
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\0b\0b5ef5559b2b71541a29e313df6e5893
+    projectPath: Library\metadata\0b\0b5ef5559b2b71541a29e313df6e5893
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0b\0b5ef5559b2b71541a29e313df6e5893.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\0b\0b5ef5559b2b71541a29e313df6e5893.info
+    projectPath: Library\metadata\0b\0b5ef5559b2b71541a29e313df6e5893.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043
+    projectPath: Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043.info
+    projectPath: Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043.resource
+    projectPath: Library\metadata\0c\0c008ee3ee72a4362a35be25fa5de043.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\130a177e727814a2ea78a886ab72213d
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\13\130a177e727814a2ea78a886ab72213d
+    projectPath: Library\metadata\13\130a177e727814a2ea78a886ab72213d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\130a177e727814a2ea78a886ab72213d.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\13\130a177e727814a2ea78a886ab72213d.info
+    projectPath: Library\metadata\13\130a177e727814a2ea78a886ab72213d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\130a177e727814a2ea78a886ab72213d.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\13\130a177e727814a2ea78a886ab72213d.resource
+    projectPath: Library\metadata\13\130a177e727814a2ea78a886ab72213d.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\181aa088c4e232a479b7e826b20b5114
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\18\181aa088c4e232a479b7e826b20b5114
+    projectPath: Library\metadata\18\181aa088c4e232a479b7e826b20b5114
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\181aa088c4e232a479b7e826b20b5114.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\18\181aa088c4e232a479b7e826b20b5114.info
+    projectPath: Library\metadata\18\181aa088c4e232a479b7e826b20b5114.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973
+    projectPath: Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973.info
+    projectPath: Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973.resource
+    projectPath: Library\metadata\19\19f89c6e740e7447f9e12a8310d3e973.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1b\1bd35880d27ab7248bdfeaa066bc0717
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\1b\1bd35880d27ab7248bdfeaa066bc0717
+    projectPath: Library\metadata\1b\1bd35880d27ab7248bdfeaa066bc0717
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1b\1bd35880d27ab7248bdfeaa066bc0717.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\1b\1bd35880d27ab7248bdfeaa066bc0717.info
+    projectPath: Library\metadata\1b\1bd35880d27ab7248bdfeaa066bc0717.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\26\2667a0a008b044e218b63df62e2be749
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\26\2667a0a008b044e218b63df62e2be749
+    projectPath: Library\metadata\26\2667a0a008b044e218b63df62e2be749
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\26\2667a0a008b044e218b63df62e2be749.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\26\2667a0a008b044e218b63df62e2be749.info
+    projectPath: Library\metadata\26\2667a0a008b044e218b63df62e2be749.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\26\2667a0a008b044e218b63df62e2be749.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\26\2667a0a008b044e218b63df62e2be749.resource
+    projectPath: Library\metadata\26\2667a0a008b044e218b63df62e2be749.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\26\26687473117a07d4cb38b7d1f4c10de6
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\26\26687473117a07d4cb38b7d1f4c10de6
+    projectPath: Library\metadata\26\26687473117a07d4cb38b7d1f4c10de6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49
+    projectPath: Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49.info
+    projectPath: Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49.resource
+    projectPath: Library\metadata\2c\2c5292ba5cf254919a6b9e2b18e04f49.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2
+    projectPath: Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2.info
+    projectPath: Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2.resource
+    projectPath: Library\metadata\32\32d4b1811dda14a6cb9e059ee8ad17d2.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\43\4328da15b4e279e4fb9cbbf9ba9b9866
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\43\4328da15b4e279e4fb9cbbf9ba9b9866
+    projectPath: Library\metadata\43\4328da15b4e279e4fb9cbbf9ba9b9866
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\43\4328da15b4e279e4fb9cbbf9ba9b9866.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\43\4328da15b4e279e4fb9cbbf9ba9b9866.info
+    projectPath: Library\metadata\43\4328da15b4e279e4fb9cbbf9ba9b9866.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269
+    projectPath: Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269.info
+    projectPath: Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269.resource
+    projectPath: Library\metadata\4e\4e1ff8faed12a475eba9be0e46072269.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a
+    projectPath: Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a.info
+    projectPath: Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a.resource
+    projectPath: Library\metadata\50\5039414d94a6e4e70a5ab9e8833e992a.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\52\52320e590bf774734a288886eba557ba
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\52\52320e590bf774734a288886eba557ba
+    projectPath: Library\metadata\52\52320e590bf774734a288886eba557ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\52\52320e590bf774734a288886eba557ba.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\52\52320e590bf774734a288886eba557ba.info
+    projectPath: Library\metadata\52\52320e590bf774734a288886eba557ba.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\52\52320e590bf774734a288886eba557ba.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\52\52320e590bf774734a288886eba557ba.resource
+    projectPath: Library\metadata\52\52320e590bf774734a288886eba557ba.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5c\5c1befec91a05bf48a167d7b1bc8ee89
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\5c\5c1befec91a05bf48a167d7b1bc8ee89
+    projectPath: Library\metadata\5c\5c1befec91a05bf48a167d7b1bc8ee89
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370
+    projectPath: Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370.info
+    projectPath: Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370.resource
+    projectPath: Library\metadata\5f\5fdb13d3756c84fecac96f5a2d124370.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\65\657578e4be6b64dbf9b09deada272e55
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\65\657578e4be6b64dbf9b09deada272e55
+    projectPath: Library\metadata\65\657578e4be6b64dbf9b09deada272e55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\65\657578e4be6b64dbf9b09deada272e55.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\65\657578e4be6b64dbf9b09deada272e55.info
+    projectPath: Library\metadata\65\657578e4be6b64dbf9b09deada272e55.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\65\657578e4be6b64dbf9b09deada272e55.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\65\657578e4be6b64dbf9b09deada272e55.resource
+    projectPath: Library\metadata\65\657578e4be6b64dbf9b09deada272e55.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f
+    projectPath: Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f.info
+    projectPath: Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f.resource
+    projectPath: Library\metadata\6e\6e8772b49f34d402a90016ed445d8a2f.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa
+    projectPath: Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa.info
+    projectPath: Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa.resource
+    projectPath: Library\metadata\72\72127805eb2bc4e7fbf2e02eca266cfa.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d
+    projectPath: Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d.info
+    projectPath: Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d.resource
+    projectPath: Library\metadata\72\724131bc8a7f34041bb9f1701f0cb58d.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\74\7478151cf36724a7dada558f746c3633
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\74\7478151cf36724a7dada558f746c3633
+    projectPath: Library\metadata\74\7478151cf36724a7dada558f746c3633
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\74\7478151cf36724a7dada558f746c3633.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\74\7478151cf36724a7dada558f746c3633.info
+    projectPath: Library\metadata\74\7478151cf36724a7dada558f746c3633.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\74\7478151cf36724a7dada558f746c3633.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\74\7478151cf36724a7dada558f746c3633.resource
+    projectPath: Library\metadata\74\7478151cf36724a7dada558f746c3633.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\78\785f9af88b8957040ae4db6243eede99
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\78\785f9af88b8957040ae4db6243eede99
+    projectPath: Library\metadata\78\785f9af88b8957040ae4db6243eede99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\78\785f9af88b8957040ae4db6243eede99.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\78\785f9af88b8957040ae4db6243eede99.info
+    projectPath: Library\metadata\78\785f9af88b8957040ae4db6243eede99.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79180f511d89441b9aa23ccae1992fe0
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\79180f511d89441b9aa23ccae1992fe0
+    projectPath: Library\metadata\79\79180f511d89441b9aa23ccae1992fe0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79180f511d89441b9aa23ccae1992fe0.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\79180f511d89441b9aa23ccae1992fe0.info
+    projectPath: Library\metadata\79\79180f511d89441b9aa23ccae1992fe0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79180f511d89441b9aa23ccae1992fe0.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\79180f511d89441b9aa23ccae1992fe0.resource
+    projectPath: Library\metadata\79\79180f511d89441b9aa23ccae1992fe0.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5
+    projectPath: Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5.info
+    projectPath: Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5.resource
+    projectPath: Library\metadata\79\79e6baad2fd414b82a6d49ce1568d2e5.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c
+    projectPath: Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c.info
+    projectPath: Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c.resource
+    projectPath: Library\metadata\7b\7bd6b897eb5ca4b7d88a205c4a51640c.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f
+    projectPath: Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f.info
+    projectPath: Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f.resource
+    projectPath: Library\metadata\7b\7bef0064f8567430cac22499c6b93d4f.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\80\80e397195ea2940b69ee7bdbded856a5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\80\80e397195ea2940b69ee7bdbded856a5
+    projectPath: Library\metadata\80\80e397195ea2940b69ee7bdbded856a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\80\80e397195ea2940b69ee7bdbded856a5.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\80\80e397195ea2940b69ee7bdbded856a5.info
+    projectPath: Library\metadata\80\80e397195ea2940b69ee7bdbded856a5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\80\80e397195ea2940b69ee7bdbded856a5.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\80\80e397195ea2940b69ee7bdbded856a5.resource
+    projectPath: Library\metadata\80\80e397195ea2940b69ee7bdbded856a5.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\81\81652031b64c342cc8dbc59c138d77c5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\81\81652031b64c342cc8dbc59c138d77c5
+    projectPath: Library\metadata\81\81652031b64c342cc8dbc59c138d77c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\81\81652031b64c342cc8dbc59c138d77c5.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\81\81652031b64c342cc8dbc59c138d77c5.info
+    projectPath: Library\metadata\81\81652031b64c342cc8dbc59c138d77c5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\81\81652031b64c342cc8dbc59c138d77c5.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\81\81652031b64c342cc8dbc59c138d77c5.resource
+    projectPath: Library\metadata\81\81652031b64c342cc8dbc59c138d77c5.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\88\881e3f52c86c94f26a60718d35627cd8
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\88\881e3f52c86c94f26a60718d35627cd8
+    projectPath: Library\metadata\88\881e3f52c86c94f26a60718d35627cd8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\88\881e3f52c86c94f26a60718d35627cd8.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\88\881e3f52c86c94f26a60718d35627cd8.info
+    projectPath: Library\metadata\88\881e3f52c86c94f26a60718d35627cd8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\88\881e3f52c86c94f26a60718d35627cd8.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\88\881e3f52c86c94f26a60718d35627cd8.resource
+    projectPath: Library\metadata\88\881e3f52c86c94f26a60718d35627cd8.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8a\8ac6fc7452149a04bbd3a704b9e1f680
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\8a\8ac6fc7452149a04bbd3a704b9e1f680
+    projectPath: Library\metadata\8a\8ac6fc7452149a04bbd3a704b9e1f680
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8a\8ac6fc7452149a04bbd3a704b9e1f680.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\8a\8ac6fc7452149a04bbd3a704b9e1f680.info
+    projectPath: Library\metadata\8a\8ac6fc7452149a04bbd3a704b9e1f680.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\97\97e586aae91a04999b17478d7aa1a576
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\97\97e586aae91a04999b17478d7aa1a576
+    projectPath: Library\metadata\97\97e586aae91a04999b17478d7aa1a576
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\97\97e586aae91a04999b17478d7aa1a576.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\97\97e586aae91a04999b17478d7aa1a576.info
+    projectPath: Library\metadata\97\97e586aae91a04999b17478d7aa1a576.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9d\9d9152b956801a745b546554b6428f30
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\9d\9d9152b956801a745b546554b6428f30
+    projectPath: Library\metadata\9d\9d9152b956801a745b546554b6428f30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9d\9d9152b956801a745b546554b6428f30.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\9d\9d9152b956801a745b546554b6428f30.info
+    projectPath: Library\metadata\9d\9d9152b956801a745b546554b6428f30.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0010a1a0c474473b81729eb770c485f
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0010a1a0c474473b81729eb770c485f
+    projectPath: Library\metadata\a0\a0010a1a0c474473b81729eb770c485f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0010a1a0c474473b81729eb770c485f.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0010a1a0c474473b81729eb770c485f.info
+    projectPath: Library\metadata\a0\a0010a1a0c474473b81729eb770c485f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0010a1a0c474473b81729eb770c485f.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0010a1a0c474473b81729eb770c485f.resource
+    projectPath: Library\metadata\a0\a0010a1a0c474473b81729eb770c485f.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca
+    projectPath: Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca.info
+    projectPath: Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca.resource
+    projectPath: Library\metadata\a0\a0ca8964c08d54c5dbebf245bdc474ca.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c
+    projectPath: Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c.info
+    projectPath: Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c.resource
+    projectPath: Library\metadata\a2\a235d590ef2a04d1b85b61ef4c21337c.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a2\a28f197490952014fa4c7dfa97e88bc1
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a2\a28f197490952014fa4c7dfa97e88bc1
+    projectPath: Library\metadata\a2\a28f197490952014fa4c7dfa97e88bc1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a2\a28f197490952014fa4c7dfa97e88bc1.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a2\a28f197490952014fa4c7dfa97e88bc1.info
+    projectPath: Library\metadata\a2\a28f197490952014fa4c7dfa97e88bc1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b0\b0ecdbc13aa7f904cbd5d04e70b9185f
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b0\b0ecdbc13aa7f904cbd5d04e70b9185f
+    projectPath: Library\metadata\b0\b0ecdbc13aa7f904cbd5d04e70b9185f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1
+    projectPath: Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1.info
+    projectPath: Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1.resource
+    projectPath: Library\metadata\b4\b43d102aac6b145468dcaa94a5cccae1.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1
+    projectPath: Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1.info
+    projectPath: Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1.resource
+    projectPath: Library\metadata\b6\b6428d4edb06344ba829da4edd9967c1.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376
+    projectPath: Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376.info
+    projectPath: Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376.resource
+    projectPath: Library\metadata\b9\b99da9a57308d4ba1bee1cf1d9038376.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2
+    projectPath: Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2.info
+    projectPath: Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2.resource
+    projectPath: Library\metadata\b9\b9eff218e132a4e76be78840eca96fb2.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe
+    projectPath: Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe.info
+    projectPath: Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe.resource
+    projectPath: Library\metadata\c5\c5e2a73ad4706440f93bf05df0b465fe.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9
+    projectPath: Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9.info
+    projectPath: Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9.resource
+    projectPath: Library\metadata\ca\cabfae866cab347928b74b7d0ca6bfa9.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f
+    projectPath: Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f.info
+    projectPath: Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f.resource
+    projectPath: Library\metadata\cf\cf6c0e7fbef9449c98a0cdb5ea0c4d9f.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d1\d1b2bd0dc124f834aaa266089480b375
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d1\d1b2bd0dc124f834aaa266089480b375
+    projectPath: Library\metadata\d1\d1b2bd0dc124f834aaa266089480b375
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d1\d1b2bd0dc124f834aaa266089480b375.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d1\d1b2bd0dc124f834aaa266089480b375.info
+    projectPath: Library\metadata\d1\d1b2bd0dc124f834aaa266089480b375.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d2\d29896996eff3d545aa2934add97b6b1
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d2\d29896996eff3d545aa2934add97b6b1
+    projectPath: Library\metadata\d2\d29896996eff3d545aa2934add97b6b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d2\d29896996eff3d545aa2934add97b6b1.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d2\d29896996eff3d545aa2934add97b6b1.info
+    projectPath: Library\metadata\d2\d29896996eff3d545aa2934add97b6b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d4\d46323e22e74e46baa241cbf48c85671
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d4\d46323e22e74e46baa241cbf48c85671
+    projectPath: Library\metadata\d4\d46323e22e74e46baa241cbf48c85671
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d4\d46323e22e74e46baa241cbf48c85671.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d4\d46323e22e74e46baa241cbf48c85671.info
+    projectPath: Library\metadata\d4\d46323e22e74e46baa241cbf48c85671.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d4\d46323e22e74e46baa241cbf48c85671.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d4\d46323e22e74e46baa241cbf48c85671.resource
+    projectPath: Library\metadata\d4\d46323e22e74e46baa241cbf48c85671.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51
+    projectPath: Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51.info
+    projectPath: Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51.resource
+    projectPath: Library\metadata\d8\d8d04c6f80a1140db85ede568dab1f51.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd
+    projectPath: Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd.info
+    projectPath: Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd.resource
+    projectPath: Library\metadata\dc\dc6614beca09347ec9b258f12d154bdd.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9
+    projectPath: Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9.info
+    projectPath: Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9.resource
+    projectPath: Library\metadata\df\df729d213c4be44a9b55cd109f5cd4f9.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e5\e5bc624c5b856c047a94cb860a118cd8
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\e5\e5bc624c5b856c047a94cb860a118cd8
+    projectPath: Library\metadata\e5\e5bc624c5b856c047a94cb860a118cd8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e5\e5bc624c5b856c047a94cb860a118cd8.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\e5\e5bc624c5b856c047a94cb860a118cd8.info
+    projectPath: Library\metadata\e5\e5bc624c5b856c047a94cb860a118cd8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e6\e6da9d2db3b11e1418ea6bf126deb563
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\e6\e6da9d2db3b11e1418ea6bf126deb563
+    projectPath: Library\metadata\e6\e6da9d2db3b11e1418ea6bf126deb563
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\e6\e6da9d2db3b11e1418ea6bf126deb563.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\e6\e6da9d2db3b11e1418ea6bf126deb563.info
+    projectPath: Library\metadata\e6\e6da9d2db3b11e1418ea6bf126deb563.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\e9\e9458878018161841930ce0bf8ccd3f3
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\e9\e9458878018161841930ce0bf8ccd3f3
+    projectPath: Library\metadata\e9\e9458878018161841930ce0bf8ccd3f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e9\e9458878018161841930ce0bf8ccd3f3.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\e9\e9458878018161841930ce0bf8ccd3f3.info
+    projectPath: Library\metadata\e9\e9458878018161841930ce0bf8ccd3f3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95
+    projectPath: Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95.info
+    projectPath: Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95.resource
+    projectPath: Library\metadata\fe\fe0b1f9aeb45b41b089175aeeabd5d95.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81
+    projectPath: Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81.info
+    projectPath: Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81.resource
+    projectPath: Library\metadata\ff\ff5f85da24bc943d1abdc5760a22bc81.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ffb159a21c8a04135a5616979c828fab
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ff\ffb159a21c8a04135a5616979c828fab
+    projectPath: Library\metadata\ff\ffb159a21c8a04135a5616979c828fab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ffb159a21c8a04135a5616979c828fab.info
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ff\ffb159a21c8a04135a5616979c828fab.info
+    projectPath: Library\metadata\ff\ffb159a21c8a04135a5616979c828fab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ff\ffb159a21c8a04135a5616979c828fab.resource
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\metadata\ff\ffb159a21c8a04135a5616979c828fab.resource
+    projectPath: Library\metadata\ff\ffb159a21c8a04135a5616979c828fab.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\eeb6c3-mainStage.json
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\StateCache\Hierarchy\eeb6c3-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\eeb6c3-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\7ab625-mainStage.json
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Library\StateCache\SceneView\7ab625-mainStage.json
+    projectPath: Library\StateCache\SceneView\7ab625-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Revolution.sln
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Revolution.sln
+    projectPath: Revolution.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-01b7661fa9129ba44ad933e3c4f9b519
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-01b7661fa9129ba44ad933e3c4f9b519
+    projectPath: Temp\UnityTempFile-01b7661fa9129ba44ad933e3c4f9b519
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0b96b873d718b364b96801af10e6efbc
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-0b96b873d718b364b96801af10e6efbc
+    projectPath: Temp\UnityTempFile-0b96b873d718b364b96801af10e6efbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0e51b020e4186cc4bb6b5cb9226ea11e
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-0e51b020e4186cc4bb6b5cb9226ea11e
+    projectPath: Temp\UnityTempFile-0e51b020e4186cc4bb6b5cb9226ea11e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1315b1006773879408c007133dfc44af
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-1315b1006773879408c007133dfc44af
+    projectPath: Temp\UnityTempFile-1315b1006773879408c007133dfc44af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-154d16d144881fe48b1470f1d920e266
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-154d16d144881fe48b1470f1d920e266
+    projectPath: Temp\UnityTempFile-154d16d144881fe48b1470f1d920e266
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-168868e31019558419b62c13023984cd
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-168868e31019558419b62c13023984cd
+    projectPath: Temp\UnityTempFile-168868e31019558419b62c13023984cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-236c057af9f91974aac8858a7bb554dc
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-236c057af9f91974aac8858a7bb554dc
+    projectPath: Temp\UnityTempFile-236c057af9f91974aac8858a7bb554dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-29165c584ef218b4d9e1c831027cfc6c
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-29165c584ef218b4d9e1c831027cfc6c
+    projectPath: Temp\UnityTempFile-29165c584ef218b4d9e1c831027cfc6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-29fd2a73195986343bfe8f76ac217650
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-29fd2a73195986343bfe8f76ac217650
+    projectPath: Temp\UnityTempFile-29fd2a73195986343bfe8f76ac217650
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2be45b312a806d44ea8eca5959cbf3b9
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-2be45b312a806d44ea8eca5959cbf3b9
+    projectPath: Temp\UnityTempFile-2be45b312a806d44ea8eca5959cbf3b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-302fcfa9157f2be468d05656f013fa43
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-302fcfa9157f2be468d05656f013fa43
+    projectPath: Temp\UnityTempFile-302fcfa9157f2be468d05656f013fa43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-37fce34c6d816c0409313a8e3ce1c392
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-37fce34c6d816c0409313a8e3ce1c392
+    projectPath: Temp\UnityTempFile-37fce34c6d816c0409313a8e3ce1c392
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3a61f66328e8b234ea12c3f351af8ba4
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-3a61f66328e8b234ea12c3f351af8ba4
+    projectPath: Temp\UnityTempFile-3a61f66328e8b234ea12c3f351af8ba4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3b6cf26189f7bd04898f4e9152ad26ea
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-3b6cf26189f7bd04898f4e9152ad26ea
+    projectPath: Temp\UnityTempFile-3b6cf26189f7bd04898f4e9152ad26ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3bebfe838e4474c439c78b7cb06e7c2a
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-3bebfe838e4474c439c78b7cb06e7c2a
+    projectPath: Temp\UnityTempFile-3bebfe838e4474c439c78b7cb06e7c2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3e3d11c6faf631f46b15886d72b5d691
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-3e3d11c6faf631f46b15886d72b5d691
+    projectPath: Temp\UnityTempFile-3e3d11c6faf631f46b15886d72b5d691
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4a41f9b785c2e0d44beef50f23bffba0
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-4a41f9b785c2e0d44beef50f23bffba0
+    projectPath: Temp\UnityTempFile-4a41f9b785c2e0d44beef50f23bffba0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4b28a70b9f75aef498685d09b3e46ef3
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-4b28a70b9f75aef498685d09b3e46ef3
+    projectPath: Temp\UnityTempFile-4b28a70b9f75aef498685d09b3e46ef3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4c52dc694e9e52f45bd5712cb32619c9
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-4c52dc694e9e52f45bd5712cb32619c9
+    projectPath: Temp\UnityTempFile-4c52dc694e9e52f45bd5712cb32619c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-51f937c4bf68cf7439cf6509cf9065bd
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-51f937c4bf68cf7439cf6509cf9065bd
+    projectPath: Temp\UnityTempFile-51f937c4bf68cf7439cf6509cf9065bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-55f4205dcc7366841aad8174fe929e32
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-55f4205dcc7366841aad8174fe929e32
+    projectPath: Temp\UnityTempFile-55f4205dcc7366841aad8174fe929e32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5941c035974bb6d418069947473888c0
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-5941c035974bb6d418069947473888c0
+    projectPath: Temp\UnityTempFile-5941c035974bb6d418069947473888c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5c5e68df8ef06274397c24b44216c7bc
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-5c5e68df8ef06274397c24b44216c7bc
+    projectPath: Temp\UnityTempFile-5c5e68df8ef06274397c24b44216c7bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-631c16cb44a8c4a4ab913a3c120ecd09
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-631c16cb44a8c4a4ab913a3c120ecd09
+    projectPath: Temp\UnityTempFile-631c16cb44a8c4a4ab913a3c120ecd09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6511a90ddcaf77348b67e1120feb182c
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-6511a90ddcaf77348b67e1120feb182c
+    projectPath: Temp\UnityTempFile-6511a90ddcaf77348b67e1120feb182c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6716e98ffd5386b4cad48cc0779d9de6
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-6716e98ffd5386b4cad48cc0779d9de6
+    projectPath: Temp\UnityTempFile-6716e98ffd5386b4cad48cc0779d9de6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6d60d0e733c4d15408b1528a66772a05
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-6d60d0e733c4d15408b1528a66772a05
+    projectPath: Temp\UnityTempFile-6d60d0e733c4d15408b1528a66772a05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-73c58e5ed2416cb4bae3b33ae9caa1e0
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-73c58e5ed2416cb4bae3b33ae9caa1e0
+    projectPath: Temp\UnityTempFile-73c58e5ed2416cb4bae3b33ae9caa1e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-74a90607f9ab26e40a512e97419aa805
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-74a90607f9ab26e40a512e97419aa805
+    projectPath: Temp\UnityTempFile-74a90607f9ab26e40a512e97419aa805
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-77ad5180a84465940b21386d6daf9bb6
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-77ad5180a84465940b21386d6daf9bb6
+    projectPath: Temp\UnityTempFile-77ad5180a84465940b21386d6daf9bb6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7a1959587a8ad4644b7a52ddcf83587c
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-7a1959587a8ad4644b7a52ddcf83587c
+    projectPath: Temp\UnityTempFile-7a1959587a8ad4644b7a52ddcf83587c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7c8fd0ddd13684341bc31b46a30ee9d0
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-7c8fd0ddd13684341bc31b46a30ee9d0
+    projectPath: Temp\UnityTempFile-7c8fd0ddd13684341bc31b46a30ee9d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7fc2415614bf6bb48a176e94a8a046ae
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-7fc2415614bf6bb48a176e94a8a046ae
+    projectPath: Temp\UnityTempFile-7fc2415614bf6bb48a176e94a8a046ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7fd7ce1996bee33468448590e645332f
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-7fd7ce1996bee33468448590e645332f
+    projectPath: Temp\UnityTempFile-7fd7ce1996bee33468448590e645332f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-83844466ae06f9945a05a352a4224417
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-83844466ae06f9945a05a352a4224417
+    projectPath: Temp\UnityTempFile-83844466ae06f9945a05a352a4224417
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-848762bf6d6e5c74192051010f0ca810
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-848762bf6d6e5c74192051010f0ca810
+    projectPath: Temp\UnityTempFile-848762bf6d6e5c74192051010f0ca810
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8707788bb49d1b0439757ee4df73f5f3
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-8707788bb49d1b0439757ee4df73f5f3
+    projectPath: Temp\UnityTempFile-8707788bb49d1b0439757ee4df73f5f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-878e94f6a9eb96c47a16e01683d0286b
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-878e94f6a9eb96c47a16e01683d0286b
+    projectPath: Temp\UnityTempFile-878e94f6a9eb96c47a16e01683d0286b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-95076ebfae89a404f811c0cd14dc847b
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-95076ebfae89a404f811c0cd14dc847b
+    projectPath: Temp\UnityTempFile-95076ebfae89a404f811c0cd14dc847b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-96a7c3e17303ead43a639533287dbd43
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-96a7c3e17303ead43a639533287dbd43
+    projectPath: Temp\UnityTempFile-96a7c3e17303ead43a639533287dbd43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-977ae48387b0f3342b98d6db7d88675b
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-977ae48387b0f3342b98d6db7d88675b
+    projectPath: Temp\UnityTempFile-977ae48387b0f3342b98d6db7d88675b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-985742abf9c57374b8b812f2cc803231
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-985742abf9c57374b8b812f2cc803231
+    projectPath: Temp\UnityTempFile-985742abf9c57374b8b812f2cc803231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9a3b2e6f19ca9a7418e842ff369861f3
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-9a3b2e6f19ca9a7418e842ff369861f3
+    projectPath: Temp\UnityTempFile-9a3b2e6f19ca9a7418e842ff369861f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a471073fb85abc641834ff21686224b5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-a471073fb85abc641834ff21686224b5
+    projectPath: Temp\UnityTempFile-a471073fb85abc641834ff21686224b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a8c6884d50abd5241861bfda57d78daf
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-a8c6884d50abd5241861bfda57d78daf
+    projectPath: Temp\UnityTempFile-a8c6884d50abd5241861bfda57d78daf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b02b060bceee8ff4baed295b7d53898a
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-b02b060bceee8ff4baed295b7d53898a
+    projectPath: Temp\UnityTempFile-b02b060bceee8ff4baed295b7d53898a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c0a79144216483f4aa97f74b9a2d9776
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-c0a79144216483f4aa97f74b9a2d9776
+    projectPath: Temp\UnityTempFile-c0a79144216483f4aa97f74b9a2d9776
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c60bfa2a93d9a1d45a79cce564f7b265
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-c60bfa2a93d9a1d45a79cce564f7b265
+    projectPath: Temp\UnityTempFile-c60bfa2a93d9a1d45a79cce564f7b265
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c6623f2b7f244914f884a06e1c02d408
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-c6623f2b7f244914f884a06e1c02d408
+    projectPath: Temp\UnityTempFile-c6623f2b7f244914f884a06e1c02d408
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c705d60a750ff8f4ca3b805aa00d4d71
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-c705d60a750ff8f4ca3b805aa00d4d71
+    projectPath: Temp\UnityTempFile-c705d60a750ff8f4ca3b805aa00d4d71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ca9840a98a3d57d4796a9d4af8c681b0
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-ca9840a98a3d57d4796a9d4af8c681b0
+    projectPath: Temp\UnityTempFile-ca9840a98a3d57d4796a9d4af8c681b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cbed4a8b88024a145bc7bb32e2aff41d
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-cbed4a8b88024a145bc7bb32e2aff41d
+    projectPath: Temp\UnityTempFile-cbed4a8b88024a145bc7bb32e2aff41d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ceb5a5389bd719444b0123c3a28b0e3d
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-ceb5a5389bd719444b0123c3a28b0e3d
+    projectPath: Temp\UnityTempFile-ceb5a5389bd719444b0123c3a28b0e3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d1e4b814a33b51847b05a831fa0a6d0b
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-d1e4b814a33b51847b05a831fa0a6d0b
+    projectPath: Temp\UnityTempFile-d1e4b814a33b51847b05a831fa0a6d0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dadbc2dc0741e0149859e7feb372d02e
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-dadbc2dc0741e0149859e7feb372d02e
+    projectPath: Temp\UnityTempFile-dadbc2dc0741e0149859e7feb372d02e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-db82998451a6d6d45a7c7ae34c694bbf
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-db82998451a6d6d45a7c7ae34c694bbf
+    projectPath: Temp\UnityTempFile-db82998451a6d6d45a7c7ae34c694bbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dbfeef57a6226b64d8d7d370d30acf02
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-dbfeef57a6226b64d8d7d370d30acf02
+    projectPath: Temp\UnityTempFile-dbfeef57a6226b64d8d7d370d30acf02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dda63cdeef8095048b7a13953bcbc1c5
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-dda63cdeef8095048b7a13953bcbc1c5
+    projectPath: Temp\UnityTempFile-dda63cdeef8095048b7a13953bcbc1c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dfdacd4237071e947816c57cf8f8ec30
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-dfdacd4237071e947816c57cf8f8ec30
+    projectPath: Temp\UnityTempFile-dfdacd4237071e947816c57cf8f8ec30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e41bb9f9dac104245b0addec8502b3d6
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-e41bb9f9dac104245b0addec8502b3d6
+    projectPath: Temp\UnityTempFile-e41bb9f9dac104245b0addec8502b3d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-eeae49af244a8e34ea73a41572c459de
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-eeae49af244a8e34ea73a41572c459de
+    projectPath: Temp\UnityTempFile-eeae49af244a8e34ea73a41572c459de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fb0d75ae60d351843ac1ac15a9f8c8ba
+    fullPath: C:\Users\Bence\Documents\UnityProjects\Revolution\Temp\UnityTempFile-fb0d75ae60d351843ac1ac15a9f8c8ba
+    projectPath: Temp\UnityTempFile-fb0d75ae60d351843ac1ac15a9f8c8ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
